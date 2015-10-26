@@ -1,0 +1,5 @@
+# The compiler path
+export CCPREFIX=/tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/bin/arm-linux-gnueabihf-
+export KERNEL_SRC=/home/osboxes/Raspberry/linux
+export KERNEL_HASH=59e76bb7e2936acd74938bb385f0884e34b91d72
+export KERNEL=kernel7
